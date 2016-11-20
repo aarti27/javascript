@@ -1,0 +1,1 @@
+Solved first 2 problems from ProjectEuler.net
